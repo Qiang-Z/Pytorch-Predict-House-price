@@ -25,15 +25,3 @@
 ```
 
 通过上面的过程，我们准备好了数据。在开始完成第一个项目之前，需要根据 [StartKit](https://github.com/sharedeeply/DeepLearning-StartKit) 配置好了深度学习环境，所以请按照操作完成深度学习环境的配置，当你完成好环境配置之后，你可以直接进入 `predict-house-prices.ipynb` 完成项目。
-
-
-
-## 评估与提交
-
-通过`predict-house-prices.ipynb`，你会建立一个模型进行房价的预测，同时在测试集上能够看到模型的效果，将这个 notebook 保存并提交给我们。
-
-除此之外，你还需要提交
-
-- notebook 导出的 html 文件
-
-可以考虑在 Github 上为该项目创建一个仓库，记录训练的过程、所使用的库以及数据等的 README 文档，构建一个完善的 Github 简历。
